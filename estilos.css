@@ -1,0 +1,16 @@
+
+table, th, td {
+   border:1px solid black;
+}
+header{
+   background-color: #ff5c3e;
+   color: aliceblue;
+   text-align: center;
+}
+body{
+   background-color:#005D68;
+}
+footer{
+   text-align: center;
+   background-color: #545454;
+}
